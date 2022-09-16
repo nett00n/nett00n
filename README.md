@@ -11,7 +11,7 @@
 - 📃 Making cool documentation
 
 
-## Current project
+## 🎋Current project
 I came to the last project with absolutely no documentation, couple of automations on new for me stack (Azure DevOps)
 
 What I have done on this project:
