@@ -9,10 +9,12 @@
 - 🏭 "As a code" paradigm 
 - 📃 Making cool documentation.
 
+
+## Current project
 > I came to the last project with absolutely no documentation, couples of automations on new for me stack (Azure DevOps). 
 > Furthermore, I made a complete DevOps documentation for it and create a release process for integration and delivery
 
-📫 How to reach me: 
+# 📫 How to reach me: 
 - [email](mailto:github@nett00n.org)
 - [LinkedIn](https://www.linkedin.com/in/nett00n/)
 
