@@ -12,13 +12,13 @@
 
 
 ## Current project
-> I came to the last project with absolutely no documentation, couples of automations on new for me stack (Azure DevOps)
-> 
-> What i made on this project:
-> - 🏭 Ansible playbook for full deployment of infrastructure created
-> - ♾️ Release Process for Integration and Delivery created
-> - 🚀 The product has released
-> - 📃 The documentation for product provides all information needed for any qualified devops to support product, even he has no experience in Azure Devops
+I came to the last project with absolutely no documentation, couples of automations on new for me stack (Azure DevOps)
+
+What i made on this project:
+- 🏭 Ansible playbook for full deployment of infrastructure created
+- ♾️ Release Process for Integration and Delivery created
+- 🚀 The product has released
+- 📃 The documentation for product provides all information needed for any qualified devops to support product, even he has no experience in Azure Devops
 
 ## 📫 How to reach me: 
 - 📧 [Email](mailto:github@nett00n.org)
