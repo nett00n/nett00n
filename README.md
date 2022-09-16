@@ -1,7 +1,7 @@
 # 🚀 Senior DevOps
 
-# ℹ️General Info
-- 👨🏻‍💻I'm a system administrator with 10+ years of experience
+# ℹ️ General Info
+- 👨🏻‍💻 I'm a system administrator with 10+ years of experience
 - 🐧 Last 5 years i'm working on Linux stack
 - 🪟 I also have a wide experience on Windows and Windows Server support
 
