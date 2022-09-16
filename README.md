@@ -1,22 +1,26 @@
-# Senior DevOps
+# 🚀 Senior DevOps
 
-- ℹ️ I'm a system administrator with 10+ years of experience. 
-- 🐧 Last 5 years i'm working on Linux stack. 
-- 🪟 I also have a wide experience on Windows and Windows Server support.
+# ℹ️General Info
+- 👨🏻‍💻I'm a system administrator with 10+ years of experience
+- 🐧 Last 5 years i'm working on Linux stack
+- 🪟 I also have a wide experience on Windows and Windows Server support
 
-## I'm passionate:
+## ❤️‍🔥 I'm passionate:
 - 🤖 Automations
 - 🏭 "As a code" paradigm 
-- 📃 Making cool documentation.
+- 📃 Making cool documentation
 
 
 ## Current project
-> I came to the last project with absolutely no documentation, couples of automations on new for me stack (Azure DevOps). 
-> Furthermore, I made a complete DevOps documentation for it and create a release process for integration and delivery
+> I came to the last project with absolutely no documentation, couples of automations on new for me stack (Azure DevOps)
+> What i made on this project
+> - ♾️ Release Process for Integration and Delivery created
+> - 🚀 The product has released
+> - 📃 The documentation for product provides all information needed for any qualified devops to support product, even he has no experience in Azure Devops
 
-# 📫 How to reach me: 
-- [email](mailto:github@nett00n.org)
-- [LinkedIn](https://www.linkedin.com/in/nett00n/)
+## 📫 How to reach me: 
+- 📧 [Email](mailto:github@nett00n.org)
+- 🇱 [LinkedIn](https://www.linkedin.com/in/nett00n/)
 
 <!--
 **nett00n/nett00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
