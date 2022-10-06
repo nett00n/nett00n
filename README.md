@@ -18,7 +18,7 @@ What I have done on this project:
 - 🏭 Ansible playbook for full deployment of infrastructure
 - ♾️ Release Process for Integration and Delivery
 - 🚀 Leaded the product to stable release
-- 📃 The documentation for product provides all information needed for any qualified devops to support product, even they have no experience in Azure Devops
+- 📃 The documentation for product provides all information needed for any qualified devops to support product, even if they have no experience in Azure Devops
 
 ## 📫 How to reach me: 
 - 📧 [Email](mailto:github@nett00n.org)
