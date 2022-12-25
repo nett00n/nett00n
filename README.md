@@ -1,3 +1,11 @@
+**Table of contents**:
+> - [ℹ️ General Info](https://github.com/nett00n#%E2%84%B9%EF%B8%8F-general-info)
+> - [🗣️ Languages](https://github.com/nett00n#%F0%9F%97%A3%EF%B8%8F-languages)
+> - [🧑‍💻 Tech Stack:](https://github.com/nett00n#%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-tech-stack)
+> - [⚒️ Work Experience](https://github.com/nett00n#%E2%9A%92%EF%B8%8F-work-experience)
+> - [🏫 Education](https://github.com/nett00n#%F0%9F%8F%AB-education)
+> - [🖨️ Print Version](https://raw.githubusercontent.com/nett00n/nett00n/main/nett00n_devops.pdf) (made with [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume))
+
 # 🚀 Senior DevOps
 
 # ℹ️ General Info
@@ -26,13 +34,13 @@ What I have done on this project:
 - 📧 [Email](mailto:github@nett00n.org)
 - 🇱 [LinkedIn](https://www.linkedin.com/in/nett00n/)
 
-# Languages
+# 🗣️ Languages
 ![Russian - C2](https://img.shields.io/badge/Russian_C2-0D597F?)
 ![English - C1](https://img.shields.io/badge/English_C1-0D597F?)
 ![Spanish - A2](https://img.shields.io/badge/Spanish_A2-0D597F?)
 ![Finnish - A1](https://img.shields.io/badge/Finnish_A1-0D597F?)
 
-# Tech Stack:
+# 🧑‍💻 Tech Stack
 
 ## Linux OS
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?logo=alpinelinux&logoColor=fff&)
@@ -124,7 +132,7 @@ What I have done on this project:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&)
 
-# Work Experience
+# ⚒️ Work Experience
 
 ## Sibedge
 
@@ -191,7 +199,7 @@ Site: [sibedge.com](https://sibedge.com)
 
 Site: [fastvps.ee](https://fastvps.ee/)
 
-# Education
+# 🏫 Education
 ## Saint Petersburg State University of Culture and Arts
 **Computer Science**
 (2011 September - 2016 May)
