@@ -1,7 +1,7 @@
 **Table of contents**:
 > - [ℹ️ General Info](https://github.com/nett00n#%E2%84%B9%EF%B8%8F-general-info)
 > - [🗣️ Languages](https://github.com/nett00n#%EF%B8%8F-languages)
-> - [🧑‍💻 Tech Stack:](https://github.com/nett00n#-tech-stack)
+> - [🧑‍💻 Tech Stack](https://github.com/nett00n#-tech-stack)
 > - [⚒️ Work Experience](https://github.com/nett00n#%EF%B8%8F-work-experience)
 > - [🏫 Education](https://github.com/nett00n#-education)
 > - [🖨️ Print Version](https://raw.githubusercontent.com/nett00n/nett00n/main/nett00n_devops.pdf) (made with [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume))
