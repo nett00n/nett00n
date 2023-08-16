@@ -8,27 +8,40 @@
 
 # 🚀 Senior DevOps
 
-# ℹ️ General Info
+## 🌟 Summary
 
-- 👨🏻‍💻 I'm a system administrator with 10+ years of experience
-- 🐧 For the last 5 years I've been working on Linux stack
-- 🪟 I also have a wide experience on Windows and Windows Server support
+Experienced system administrator with over a decade of hands-on expertise in managing diverse IT environments. Proficient on Linux, Windows, and Windows Server systems, with a recent focus on mastering the Linux stack. Passionate about driving efficiencies through automation, adopting the "Infrastructure as Code" paradigm, and creating comprehensive documentation for streamlined operations.
 
-## ❤️‍🔥 I'm passionate about:
+## 💼 Professional Highlights
 
-- 🤖 Automations
-- 🏭 "As a code" paradigm
-- 📃 Making cool documentation
+- **Tenured Expertise:** A proven track record of more than 10 years in system administration, consistently delivering reliable solutions to complex technical challenges.
 
+- **Linux Mastery:** Demonstrated exceptional proficiency over the past 5 years by specializing in Linux technologies, applying expert knowledge in managing, configuring, and troubleshooting.
 
-## 🎋Current project
-I came to the last project with absolutely no documentation, couple of automations on new for me stack (Azure DevOps)
+- **Holistic Approach:** Equally skilled in Linux and Windows environments, contributing to a well-rounded skill set and adaptable problem-solving capabilities.
 
-What I have done on this project:
-- 🏭 Ansible playbook for full deployment of infrastructure
-- ♾️ Release Process for Integration and Delivery
-- 🚀 Leaded the product to stable release
-- 📃 The documentation for product provides all information needed for any qualified devops to support product, even if they have no experience in Azure Devops
+## 🔥 Passion and Focus
+
+Driven by a deep passion for technology and operational excellence, I am dedicated to:
+
+- **Automation Champion:** Thrive on devising ingenious automations that enhance efficiency, minimize manual intervention, and optimize resource utilization.
+
+- **Infrastructure Evolution:** Advocate for the "Infrastructure as Code" philosophy to enable agility, scalability, and consistency, while keeping up with industry best practices.
+
+- **Effective Documentation:** Enthusiastically create detailed and user-friendly documentation that empowers colleagues to confidently navigate and manage systems, workflows, and processes.
+
+## 🚀 Latest Achievement
+
+In my most recent project, I tackled significant challenges head-on, despite encountering a lack of documentation. Leveraging my skills, I:
+
+- **Streamlined Deployment:** Orchestrated a comprehensive Ansible playbook for seamless end-to-end infrastructure deployment, fostering consistency and reliability.
+
+- **Continuous Improvement:** Pioneered a robust release process for Integration and Delivery, ensuring frequent and reliable software updates.
+
+- **Stability and Leadership:** Led the project to a stable release, showcasing exceptional leadership and collaboration skills within cross-functional teams.
+
+- **Empowering Knowledge:** Authored comprehensive product documentation that equips even inexperienced Azure DevOps personnel with the tools needed to proficiently support the product.
+
 
 ## 📫 How to reach me:
 - 📧 [Email](mailto:github@nett00n.org)
