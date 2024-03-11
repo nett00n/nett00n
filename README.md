@@ -149,7 +149,7 @@ In my most recent project, I tackled significant challenges head-on, despite enc
 
 ## Sibedge
 
-**Linux Engineer** ( 2010 October - now )
+**Linux Engineer** ( 2010 October - 2023 August )
 - Documentation
 - Release management
 - CI/CD process
